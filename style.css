@@ -1,0 +1,247 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #c6c3c3b5;
+}
+.menu-bar{
+    width: 80%;
+    margin: auto;
+    background-color: rgba(3, 3, 138, 0.93);
+    text-align: center;
+    margin-top: 0px;
+}
+.menu-bar img{
+    width: 100%;
+    height: 300px;
+}
+.menu-bar ul{
+    display: inline-block;
+}
+.menu-bar ul li{
+    display: inline;
+}
+.menu-bar ul li a{
+    color: #d4d0d0;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 25px;
+}
+.menu-bar ul li a:hover{
+    color: #fff;
+    text-decoration: none;
+    margin: 20px;
+    font-size: 25px;
+}
+.pcparts-menu{
+    display: none;
+    background-color: rgb(14, 14, 14);
+    width: 200px;
+    height: 420px;
+    margin-left: 50px;
+    border-radius: 10px;
+    opacity: .7;
+}
+.pcparts-menu li{
+    margin-left: -40px;
+    text-align: center;
+}
+.pcparts-menu a{
+    display: inline-block;
+}
+.menu-bar ul li:hover .pcparts-menu{
+    display: block;
+    position: absolute;
+}
+.pcparts-menu ul li{
+    display: block;
+}
+
+.laptop-menu{
+    display: none;
+    background-color: rgb(14, 14, 14);
+    width: 200px;
+    height: 350px;
+    margin-left: 170px;
+    border-radius: 10px;
+    opacity: .7;
+}
+.laptop-menu li{
+    margin-left: -40px;
+    text-align: center;
+}
+.laptop-menu a{
+    display: inline-block;
+}
+.menu-bar ul li:hover .laptop-menu{
+    display: block;
+    position: absolute;
+}
+.laptop-menu ul li{
+    display: block;
+}
+
+.accessorie-menu{
+    display: none;
+    background-color: rgb(14, 14, 14);
+    width: 200px;
+    height: 210px;
+    margin-left: 310px;
+    border-radius: 10px;
+    opacity: .7;
+}
+.accessorie-menu li{
+    margin-left: -40px;
+    text-align: center;
+}
+.accessorie-menu a{
+    display: inline-block;
+}
+.menu-bar ul li:hover .accessorie-menu{
+    display: block;
+    position: absolute;
+}
+.accessorie-menu ul li{
+    display: block;
+}
+.content{
+    display: flex;
+    margin-left: 9.4%;
+}
+#line-hightlight{
+    background-color: rgb(255, 3, 3);
+    width: 80%;
+    height: 5px;
+    margin: auto;
+    margin-top: 0px;
+}       
+#title{
+    display: inline-block;
+}
+#title li{
+    display: block;
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 20px;
+}
+.laptop-promote{
+    background-color: #fff;
+    width: 80%;
+    height: 60px;
+    margin: auto;
+    margin-top: 10px;
+}
+.laptop-content{
+    background-color: #fff;
+    width: 21.8%;
+    height: 430px;
+    margin-top: 10px;
+    margin-left: 7.5px;
+}   
+.laptop-content img{
+    width: 220px;
+    height: 180px;
+    margin-top: 15%;
+    margin-left: 10%;
+}
+.laptop-content img:hover{
+    width: 230px;
+    height: 190px;
+    margin-top: 15%;
+    margin-left: 10%;
+}
+.laptop-content h4{
+    margin-left: 30px;
+}
+#price{
+    color: red;
+    text-align: center;
+    margin-top: 20px;
+}
+.pc-parts-content img{
+    width: 200px;
+    height: 160px;
+    margin-top: 15%;
+    margin-left: 20%;
+}
+.pc-parts-content img:hover{
+    width: 210px;
+    height: 170px;
+    margin-top: 15%;
+    margin-left: 20%;
+}
+.pc-parts-content h4{
+    margin-left: 30px;
+}
+.pc-parts-promote{
+    background-color: #fff;
+    width: 80%;
+    height: 60px;
+    margin: auto;
+    margin-top: 10px;
+}
+.pc-parts-content{
+    background-color: #fff;
+    width: 21.8%;
+    height: 400px;
+    margin-top: 10px;
+    margin-left: 7.5px;
+}  
+
+.accessorie-content img{
+    width: 200px;
+    height: 200px;
+    margin-top: 15%;
+    margin-left: 20%;
+}
+.accessorie-content img:hover{
+    width: 210px;
+    height: 210px;
+    margin-top: 15%;
+    margin-left: 20%;
+}
+.accessorie-content h4{
+    margin-left: 30px;
+}
+.accessorie-promote{
+    background-color: #fff;
+    width: 80%;
+    height: 60px;
+    margin: auto;
+    margin-top: 10px;
+}
+.accessorie-content{
+    background-color: #fff;
+    width: 21.8%;
+    height: 440px;
+    margin-top: 10px;
+    margin-left: 7.5px;
+}  
+.network-promote{
+    background-color: #fff;
+    width: 80%;
+    height: 60px;
+    margin: auto;
+    margin-top: 10px;
+}
+.network-content{
+    background-color: #fff;
+    width: 21.8%;
+    height: 350px;
+    opacity: .4;
+    margin-top: 10px;
+    margin-left: 7.5px;
+}    
+.audio-promote{
+    background-color: #fff;
+    width: 80%;
+    height: 60px;
+    margin: auto;
+    margin-top: 10px;
+}
+.audio-content{
+    background-color: #fff;
+    width: 21.8%;
+    height: 350px;
+    opacity: .4;
+    margin-top: 10px;
+    margin-left: 7.5px;
+}    
