@@ -131,7 +131,7 @@ body{
 }
 .laptop-content{
     background-color: #fff;
-    width: 21.8%;
+    width: 21.7%;
     height: 430px;
     margin-top: 10px;
     margin-left: 7.5px;
@@ -180,7 +180,7 @@ body{
 }
 .pc-parts-content{
     background-color: #fff;
-    width: 21.8%;
+    width: 21.7%;
     height: 400px;
     margin-top: 10px;
     margin-left: 7.5px;
@@ -210,7 +210,7 @@ body{
 }
 .accessorie-content{
     background-color: #fff;
-    width: 21.8%;
+    width: 21.7%;
     height: 440px;
     margin-top: 10px;
     margin-left: 7.5px;
@@ -239,7 +239,7 @@ body{
 }
 .network-content{
     background-color: #fff;
-    width: 21.8%;
+    width: 21.7%;
     height: 450px;
     margin-top: 10px;
     margin-left: 7.5px;
@@ -269,7 +269,7 @@ body{
 }
 .audio-content{
     background-color: #fff;
-    width: 21.8%;
+    width: 21.7%;
     height:450px;
     opacity: .4;
     margin-top: 10px;
@@ -281,7 +281,7 @@ body{
         height: 100px;
     }
     .menu-bar{
-        margin-left: 5%;
+        margin-left: 10%;
     }
     .menu-bar ul{
         display: inline-block;
@@ -311,49 +311,49 @@ body{
         background-color: #fff;
         width: 80%;
         height: 30px;
-        margin-left: 5%;
+        margin-left: 10%;
         margin-top: 10px;
     }
     .pc-parts-promote{
         background-color: #fff;
         width: 80%;
         height: 30px;
-        margin-left: 5%;
+        margin-left: 10%;
         margin-top: 10px;
     }
     .accessorie-promote{
         background-color: #fff;
         width: 80%;
         height: 30px;
-        margin-left: 5%;
+        margin-left: 10%;
         margin-top: 10px;
     }
     .network-promote{
         background-color: #fff;
         width: 80%;
         height: 30px;
-        margin-left: 5%;
+        margin-left: 10%;
         margin-top: 10px;
     }
     .audio-promote{
         background-color: #fff;
         width: 80%;
         height: 30px;
-        margin-left: 5%;
+        margin-left: 10%;
         margin-top: 10px;
     }
     /*Hightlight*/
     #line-hightlight{
-        margin-left: 5% ;
+        margin-left: 10% ;
     }
     .content{
-        margin-left: 3%;
+        margin-left: 8%;
     }
     /*Background */
    .laptop-content{
         width: 20%;
         height: 150px;
-        margin-left: 4px;
+        margin-left: 8px;
    }
    .laptop-content img{
         width: 80%;
@@ -370,7 +370,7 @@ body{
     .pc-parts-content{
         width: 20%;
         height: 150px;
-        margin-left: 4px;
+        margin-left: 8px;
     }
    .pc-parts-content img{
         width: 80%;
@@ -384,7 +384,7 @@ body{
     .accessorie-content{
         width: 20%;
         height: 150px;
-        margin-left: 4px;
+        margin-left: 8px;
     }
    .accessorie-content img{
         width: 80%;
@@ -398,7 +398,7 @@ body{
     .network-content{
         width: 20%;
         height: 150px;
-        margin-left: 4px;
+        margin-left: 8px;
     }
    .network-content img{
         width: 80%;
@@ -412,7 +412,7 @@ body{
     .audio-content{
         width: 20%;
         height: 150px;
-        margin-left: 4px;
+        margin-left: 8px;
     }
    .audio-content img{
         width: 80%;
