@@ -142,12 +142,6 @@ body{
     margin-top: 15%;
     margin-left: 10%;
 }
-.laptop-content img:hover{
-    width: 220px;
-    height: 180px;
-    margin-top: 15%;
-    margin-left: 10%;
-}
 .laptop-content h4{
     margin-left: 30px;
 }
@@ -159,12 +153,6 @@ body{
 .pc-parts-content img{
     width: 200px;
     height: 160px;
-    margin-top: 15%;
-    margin-left: 20%;
-}
-.pc-parts-content img:hover{
-    width: 210px;
-    height: 170px;
     margin-top: 15%;
     margin-left: 20%;
 }
@@ -189,12 +177,6 @@ body{
 .accessorie-content img{
     width: 200px;
     height: 200px;
-    margin-top: 15%;
-    margin-left: 20%;
-}
-.accessorie-content img:hover{
-    width: 210px;
-    height: 210px;
     margin-top: 15%;
     margin-left: 20%;
 }
